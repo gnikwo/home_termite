@@ -1,7 +1,7 @@
 [options]
 font=inconsolata 12
 mouse_autohide=true
-dynamic_title=true
+dynamic_title=false
 scrollback_lines=50000
 
 # Solarized dark color scheme
